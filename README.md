@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🖲️, I'm Dannyel</h1>
-<h3 align="center">I'm currently a programming student</h3>
+<h2 align="center">I'm currently a programming student</h2>
 
 
 - 📚I'm currently working on the project: [libft](https://github.com/lbDYX/42_cursus.git)
