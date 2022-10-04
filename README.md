@@ -2,7 +2,7 @@
 <h3 align="center">I'm currently a programming student</h3>
 
 
-- 📚I'm currently working on the project: [libft](git@github.com:lbDYX/42_cursus.git)
+- 📚I'm currently working on the project: [libft](https://github.com/lbDYX/42_cursus.git)
 
 - 🌱 I’m currently learning **C, C++, arduino, Nextion, Fusion, printer3D**
 
