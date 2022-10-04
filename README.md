@@ -1,5 +1,7 @@
 <h1 align="center">Hi 🖲️, I'm Dannyel</h1>
-<h3 align="center">I'm currently a programming student, I am passionate about robotics and automation, I really like projects with arguino and raspberry</h3>
+<h3 align="center">I'm currently a programming student, 
+Im passionate about robotics and automation, 
+I really like projects with arguino and raspberry</h3>
 
 - 📚I'm currently working on the project: [libft](git@github.com:lbDYX/42_cursus.git)
 
