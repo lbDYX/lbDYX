@@ -2,7 +2,7 @@
 <h2 align="center">I'm currently a programming student</h2>
 
 
-- <h1📚I'm currently working on the project:</h1> [libft](https://github.com/lbDYX/42_cursus/tree/main/libft)
+- 📚<h1 I'm currently working on the project:</h1> [libft](https://github.com/lbDYX/42_cursus/tree/main/libft)
 
 - 🌱 I’m currently learning **C, C++, arduino, Nextion, Fusion, printer3D**
 
