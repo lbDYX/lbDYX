@@ -1,6 +1,6 @@
 <!--Título con URL en la imagen-->
 <h1 align="center"> :computer:I'M LEARNING TO PROGEAM
-<a href="https://www.cprogramming.com/"><img src="img/C.png" align="right" width="50" height="50"></p></a>
+<a href="https://www.cprogramming.com/"><img src="img/C_l.png" align="right" width="50" height="50"></p></a>
 
 <!--Presentación-->
 <h2 alingn="left">:wave:Hi, I'm <b>Dannyel,</b> I'm a student from <b>42 barcelona</p></h2>
@@ -12,12 +12,12 @@
 * [X] :book:<a href="https://github.com/lbDYX/42_cursus/tree/main/libft">Libft :</a> <i>Librería de funciones en C.</i>
 * [ ] :desktop_computer:Printf : <i>Función printf en C.</i>
   
-  <img src="img/gato_programando.gif" alin="rigth" width="100" height="100" style="position:relative; top :-60;right: -370px"/>
+  <img src="img/gato_programando.gif" alin="rigth" width="200" height="200">
 
 <!---Lenguajes--->
 <h1>📑I have some knowledge in:</h1>
 <!---C--->
-<a href="https://www.cprogramming.com/"><img src="img/C.png" align="left" width="50" height="50"></p></a>
+<a href="https://www.cprogramming.com/"><img src="img/C_l.png" align="left" width="50" height="50"></p></a>
 <!---Html--->
 <a href="https://www.w3schools.com/html/"><img src="img/logohtmlhtml5.jpg" align="left" width="50" height="50" style="position:relative; right: -10px"></a>
 <!---python--->
