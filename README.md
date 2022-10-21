@@ -1,5 +1,6 @@
 <h1 align="center">Hi 🖲️, I'm Dannyel</h1>
-<h2 align="center">I'm currently a programming student</h2>![gato_programando](https://user-images.githubusercontent.com/87203430/197160412-d0eafce0-eefb-4d34-84ac-592bc1cf8295.gif)
+<h2 align="center">I'm currently a programming student</h2>
+![gato_programando](https://user-images.githubusercontent.com/87203430/197160412-d0eafce0-eefb-4d34-84ac-592bc1cf8295.gif)
 
 
 
