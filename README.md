@@ -1,13 +1,36 @@
 <!--Título con URL en la imagen-->
 <h1 align="center"> :computer:I'M LEARNING TO PROGEAM
-<a href="https://www.cprogramming.com/"><img src="img/c.png" align="right" width="50" height="50"></p></a>
+<a href="https://www.cprogramming.com/"><img src="img/C.png" align="right" width="50" height="50"></p></a>
 
 <!--Presentación-->
-<h2 alingn="left"> Hi, I'm <b>Dannyel,</b> I'm a student from <b>42 barcelona</p></h2>
+<h2 alingn="left">:wave:Hi, I'm <b>Dannyel,</b> I'm a student from <b>42 barcelona</p></h2>
 <a href="https://www.42barcelona.com/es"><img src="img/42.png" align="center"width="1000" height="200"></a>
+<h1></h1>
 <!---Proyectos en curso o finalizados--->
-<h2 alingn="left"> :computer:Projects</h2>
-<ul>
-<li> 
-<b>* [X] Libft:</b> <i>Librería de funciones en C</i></li>
-</ul>
+<h1 alingn="left"> :computer:Projects</h1>
+
+* [X] :book:<a href="https://github.com/lbDYX/42_cursus/tree/main/libft">Libft :</a> <i>Librería de funciones en C.</i>
+* [ ] :desktop_computer:Printf : <i>Función printf en C.</i>
+  
+  <img src="img/gato_programando.gif" alin="rigth" width="100" height="100" style="position:relative; top :-60;right: -370px"/>
+
+<!---Lenguajes--->
+<h1>📑I have some knowledge in:</h1>
+<!---C--->
+<a href="https://www.cprogramming.com/"><img src="img/C.png" align="left" width="50" height="50"></p></a>
+<!---Html--->
+<a href="https://www.w3schools.com/html/"><img src="img/logohtmlhtml5.jpg" align="left" width="50" height="50" style="position:relative; right: -10px"></a>
+<!---python--->
+<a href="https://www.python.org/"><img src="img/python.png" align="left" width="50" height="50" style="position:relative; right: -20px"></a>
+<!---java--->
+<a href="https://www.java.com/es/"><img src="img/java.png" align="left" width="50" height="50"
+style="position:relative; right: -30px"></a>
+<!---Arduino--->
+<a href="https://www.arduino.cc/"><img src="img/arduino.png" align="left" width="50" height="50"
+style="position:relative; right: -40px"></a>
+<h1><br></br>
+<!---Contactos--->
+<h1 align="left">📫Contact me:</h1>
+<!---Gmail--->
+<a href="dacortes@student.42barcelona.com"><img src="img/gmail.png" align="rigth" width="50" height="50" style="position:relative; right: -40px"/></a>
+<a href="https://www.linkedin.com/in/dacortesR/"><img src="img/linkedin.png" align="left" width="50" height="50"></a>
