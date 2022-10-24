@@ -1,6 +1,6 @@
 <!--Título con URL en la imagen-->
 <h1 align="center"> :computer:I'M LEARNING TO PROGEAM
-<a href="https://www.cprogramming.com/"><img src="img/C_l.png" align="right" width="50" height="50"></p></a>
+<a href="https://www.cprogramming.com/"><img src="img/L_C.png" align="right" width="50" height="50"></p></a>
 
 <!--Presentación-->
 <h2 alingn="left">:wave:Hi, I'm <b>Dannyel,</b> I'm a student from <b>42 barcelona</p></h2>
@@ -17,7 +17,7 @@
 <!---Lenguajes--->
 <h1>📑I have some knowledge in:</h1>
 <!---C--->
-<a href="https://www.cprogramming.com/"><img src="img/C_l.png" align="left" width="50" height="50"></p></a>
+<a href="https://www.cprogramming.com/"><img src="img/L_C.png" align="left" width="50" height="50"></p></a>
 <!---Html--->
 <a href="https://www.w3schools.com/html/"><img src="img/logohtmlhtml5.jpg" align="left" width="50" height="50" style="position:relative; right: -10px"></a>
 <!---python--->
