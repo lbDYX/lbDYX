@@ -1,5 +1,5 @@
 <!--Título con URL en la imagen-->
-<h1 align="center"> :computer:I'M LEARNING TO PROGEAM
+<h1 align="center"> :computer:I'M LEARNING TO PROGRAM
 <a href="https://www.cprogramming.com/"><img src="img/L_C.png" align="right" width="50" height="50"></p></a>
 
 <!--Presentación-->
