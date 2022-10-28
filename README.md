@@ -10,7 +10,8 @@
 <h1 alingn="left"> :computer:Projects</h1>
 
 * [X] :book:<a href="https://github.com/lbDYX/42_cursus/tree/main/libft">Libft :</a> <i>Librería de funciones en C.</i>
-* [ ] :desktop_computer:<a href="https://github.com/lbDYX/42_cursus/tree/main/printf">Printf :</a> <i>Función printf en C.</i>
+* [X] :desktop_computer:<a href="https://github.com/lbDYX/42_cursus/tree/main/printf">Printf :</a> <i>Función printf en C.</i>
+* [ ] :printer:<a>get next line :</a> <i></i>
   
   <img src="img/gato_programando.gif" alin="rigth" width="200" height="200">
 
